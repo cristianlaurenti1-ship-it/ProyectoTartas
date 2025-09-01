@@ -46,6 +46,7 @@ ul{
 .preguntas-header{
     background-image: url(../Imagenes/fondoPantalla.png);
     position: relative;
+    background-position: center;
 }
 
 .servicios-header {
@@ -181,6 +182,10 @@ ul{
     border-radius: 0.5rem;
     padding: 1rem;
 }
+.texto-preguntas {
+
+}font-size: 0.9rem;
+
 .servicios-contenedor{
     background-color: rgb(193, 227, 216);
     max-width: 25rem;
